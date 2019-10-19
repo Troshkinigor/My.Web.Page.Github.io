@@ -1,0 +1,15 @@
+https://github.com/join
+
+git config --global user.name "Troshkinigor"
+git config --global user.email igorhackitstudio@gmail.com
+
+cd /d C:/Users/Admin/Desktop/lesson4
+git init
+
+git status
+git add --all
+git commit -m "C:\Users\Admin\Desktop\lesson4"
+
+git remote add origin https://github.com/Troshkinigor/My.Web.Page.Github.io.git
+
+git push -u origin master
